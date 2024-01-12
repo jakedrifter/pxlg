@@ -1,2 +1,2 @@
 # pxlg
-small graphics class for making simple pixel graphics.
+small canvas graphics class for making simple pixel graphics.
