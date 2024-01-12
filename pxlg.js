@@ -1,4 +1,4 @@
-class Pxlgraphics {
+class Pxlg {
   constructor() {
     this.parent = document.body;
     this.parent.style.cssText = `
