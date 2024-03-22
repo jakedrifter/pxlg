@@ -10,8 +10,8 @@ class Pxlg {
       background-color: #282c34;
       overflow: hidden;
     `;
-    this.canvas = null;
-    this.ctx = null;
+    this.canvas;
+    this.ctx;
   }
   createCanvas(width, height) {
     this.canvas = document.createElement('canvas');
